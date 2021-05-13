@@ -42,28 +42,28 @@
 
 <script>
 export default {
-  name: "App",
+  name: 'App',
 
   data: () => ({
     showPassword: false,
     links: [
       {
-        label: "Home",
-        url: "/",
+        label: 'Home',
+        url: '/',
       },
       {
-        label: "Login",
-        url: "/login",
+        label: 'Login',
+        url: '/login',
       },
       {
         label: 'Dashboard',
-        url: '/dashboard'
+        url: '/dashboard',
       },
       {
         label: 'Signup',
-        url: '/signup'
-      }
+        url: '/signup',
+      },
     ],
   }),
-};
+}
 </script>
