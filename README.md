@@ -1,4 +1,4 @@
-# Vue Todo
+# Vue Dashboard
 This project is based on Ben Hong's [Vue Mastery course on Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/getting-started-with-vuetify).
 
 This project is just a shell, without any functionality. The main goal is showing off some of Vuetify features.
